@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,java,c,rust,kotlin,cpp" />
